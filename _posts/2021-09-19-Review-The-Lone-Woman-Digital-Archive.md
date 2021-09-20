@@ -13,11 +13,11 @@ The Lone Woman and the Last Indians Digital Archive is a digital humanities proj
 
 Upon first glance of the website, I noticed The “Home” page says little to nothing about the significance of, or how to use, the website. It is difficult to understand what one is looking at until you are much deeper into the project. The home page’s use is not clearly understood.
 
-[Home Page](https://KFerguson350.github.io/KFerguson-350-Blog/images/home.JPG)
+![Home Page](https://KFerguson350.github.io/KFerguson-350-Blog/images/home.JPG)
 
 So after the failure of the home page, I cleverly checked the “How To Use This Site” guide, which was one of the links posted on the left hand side of the page, hoping for a little more clarification. I was impressed at first, but unfortunately my next qualm begins with this link. The guide was almost as long-winded as some of the posted articles, which only proved to lead me down a much deeper hole. 
 
-[How To Guide](https://KFerguson350.github.io/KFerguson-350-Blog/images/how.JPG)
+![How To Guide](https://KFerguson350.github.io/KFerguson-350-Blog/images/how.JPG)
 
 The “Interpretive Mode” that I discovered while perusing the “How To” guide I had hoped would help me to begin looking at the articles and trying to understand their involvement in the overall mission of the website. This mode, however, opened another tab entirely, which then said it was actually the “Literary Tropes” page which was further down the left handed list of links. It was within this section that I finally learned that the significance of the website was to show how the lore that surrounds the actual historical event was very much convoluted throughout the retellings in newspaper articles. Ironic, considering how many hoops I had to jump through just to find this explanation. 
  
@@ -27,7 +27,7 @@ But the articles provided, as hinted at, came as a double-edged sword. There is 
 
 Visuals were provided in the Maps section, however their biggest flaw (and potentially the biggest flaw of the entire page), is the lack of significance in the pinpoints. Each highlighted region says nothing about the Lone Woman’s story, and only a brief description of the land or city. At this point I was pretty lost and had no easily accessible clarification. Why are these regions important? In summation, what was their importance to the retelling of the Lone Woman’s story? I was left with more questions than when I began. 
 
-[Maps](https://KFerguson350.github.io/KFerguson-350-Blog/images/map.JPG) 
+![Maps](https://KFerguson350.github.io/KFerguson-350-Blog/images/map.JPG) 
 
 If the project were to be restructured to be more user-friendly, I would suggest combining the “How To” guide and the home page. Not only would that provide a clearer understanding of the project’s purpose, but it would also show users how to navigate the site as soon as they open it. Furthermore, the information linked on the maps page has no significance to the articles uploaded, so a shortened version of browsing is not currently an option. 
 
