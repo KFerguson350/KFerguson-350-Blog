@@ -5,7 +5,7 @@ In preparing for my own Digital Humanities project, my class and I have each sou
 
 In a sentence, this DH project “seeks to encourage the discussion about Haiti’s founding documents and their influences on the broader Atlantic.” This simplistic description was a direct quote from the website’s About page. Unfortunately, however, that was the _only_ sentence provided in the About page. 
 
-*insert picture from About* 
+![About](https:// 
 
 However, this project has some really clean pluses that I enjoyed. For starters, whenever you press the title of the website, it takes you back to the Home/About page, which is really nice. Preventing people from getting lost in a website is always a good idea. 
 
