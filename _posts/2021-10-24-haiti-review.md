@@ -1,9 +1,9 @@
-###An Honest Review of "Haiti and the Atlantic World"
-##Second DH Review
+### An Honest Review of "Haiti and the Atlantic World"
+## Second DH Review
 
-#Project Name: Haiti and the Atlantic World
-#Project Director: Julia Gaffield, PhD
-#Project URL: https://haitidoi.com 
+# Project Name: Haiti and the Atlantic World
+# Project Director: Julia Gaffield, PhD
+# Project URL: https://haitidoi.com 
 
 In preparing for my own Digital Humanities project, my class and I have each sought out professional DH pages in order to critique and grow in understanding about useability. For this project, I came across Dr. Julia Gaffield’s page “Haiti and the Atlantic World: Sources and Resources Discussions about Haiti and Haitian History”.
 
