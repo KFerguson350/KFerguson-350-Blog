@@ -11,6 +11,8 @@ The interaction between viewer, creator, and information is the core of DH. Whil
 
 Digital Humanities really “hit home” for me when my class was assigned to make a project of our own. The prompt was to make an interactive map of our school, Christopher Newport University, and include personal anecdotes about our time here. Marked by pinpoints, I was able to tell my story to the world and include my own work into the world of DH. The map is linked below! 
 
+<iframe width="960" height="729.2193308550186" data-original-width="1614" data-original-height="1226" src="https://www.thinglink.com/card/1499040238943600643" type="text/html" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling="no"></iframe><script async src="//cdn.thinglink.me/jse/responsive.js"></script>
+
 Furthermore, the class had assigned readings each week that aided in our understanding. Though they varied in composition, each reading had assigned Twitter posts on our class accounts where we could interact with our classmates. Using Twitter as a discussion forum not only made me more comfortable with the app, but also was an easy way to see my classmates’ individual thoughts even if they were not brought up in class. 
 
 The readings themselves were especially helpful when it came to writing these blog posts. I for one have never had a blog before, and blog etiquette was something that I struggled with. In my reviews, I had a difficult time constructing my tone so I was not too critical or colloquial. I am still working on those skills even as this final blog post is uploaded, however the readings aided me in understanding what an outside audience is looking for when they come to my page. 
